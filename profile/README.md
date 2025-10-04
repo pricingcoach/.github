@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img style="width: 500px" src="https://booking.pricing-coach.com/assets/images/icon/svg/logo.svg">
+  <img style="width: 500px" src="https://booking.pricing-coach.com/assets/images/icon/svg/logo-w50.svg">
 </h1>
 <p align="center">
   <strong>AI-Powered Revenue Management System for Hotels & Hospitality</strong><br>
